@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bparanj
-- 👀 I’m interested in building SaaS apps
-- 🌱 I’m currently learning AWS CDK
-- 💞️ I’m looking to collaborate on developing products for eCommerce
+- 👀 I’m interested in building innovative software products
+- 🌱 I’m currently learning software innovation toolkits, strategies and processes
+- 💞️ I’m looking to collaborate on developing products for deploying web apps
 - 📫 How to reach me : 404 861 5540
 
 <!---
