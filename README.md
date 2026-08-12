@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bparanj
-- I am building security tools for AWS. [Stave](https://github.com/sufield/stave/actions): Proves cloud config correctness instead of scanning for what's wrong.
+- I am building security tools for AWS. [Stave](https://github.com/sufield/stave/): Proves cloud config correctness instead of scanning for what's wrong.
 - 📫 How to reach me : 404 861 5540
 
 <!---
