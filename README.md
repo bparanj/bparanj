@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bparanj
-- 💞️ I’m looking to collaborate on developing products for deploying web apps
+- I am building security tools for AWS. [Stave](https://github.com/sufield/stave/actions): Proves cloud config correctness instead of scanning for what's wrong.
 - 📫 How to reach me : 404 861 5540
 
 <!---
